@@ -1,0 +1,35 @@
+{"ogrenciler":[
+    {
+		"ogrenciNo":1,
+		"ad":"Ahmet",
+		"soyad":"Toprak",
+		"bolum":"-",
+		"universite":"-",
+		"resimUrl":"http://serifgungor.com/images/my-photo.jpg"
+	},
+    {
+		"ogrenciNo":2,
+		"ad":"Cihan",
+		"soyad":"Bal",
+		"bolum":"Bilgisayar",
+		"universite":"-",
+		"resimUrl":"http://serifgungor.com/images/my-photo.jpg"
+	},
+    {
+		"ogrenciNo":3,
+		"ad":"Seyit Ahmet",
+		"soyad":"Tanrıver",
+		"bolum":"-",
+		"universite":"-",
+		"resimUrl":"http://serifgungor.com/images/my-photo.jpg"
+	},
+	{
+		"ogrenciNo":4,
+		"ad":"Şerif",
+		"soyad":"Güngör",
+		"bolum":"Bilgisayar Programcılığı",
+		"universite":"İstanbul Ticaret Üniversitesi",
+		"resimUrl":"http://serifgungor.com/images/my-photo.jpg"
+	}
+]
+}
